@@ -1,0 +1,36 @@
+figure>img {
+    padding-top: 80px;
+    width: 180px;
+    height: 200;
+}
+
+figcaption {
+    position: relative;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13pt;
+    font-weight: bolder;
+    padding: 5px;
+    width: 150px;
+    background-color: rgba(100, 100, 100, .8);
+    top: -50px;
+    color: rgba(255,255, 245, .9);
+    visibility: hidden;
+}
+
+figcaption>p {
+margin: 0;
+padding: 0;
+}
+
+.preco-prod {
+    color:black;
+    text-decoration: line-through;
+    font-size: 12pt;
+}
+
+.precofinal-prod {
+    text-decoration: none;
+    font-size:15pt;
+    color: red;
+}

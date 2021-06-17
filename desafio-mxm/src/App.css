@@ -1,0 +1,52 @@
+body {
+    padding-top: 200px;
+    margin-top: 100px;
+    font-style: italic;
+    bottom: 50px;
+    background-color: #ffffff;
+    
+}
+
+.categorias {
+    list-style: none;
+    
+}
+
+.categorias > li {
+margin-left: 10px;
+}
+
+.categorias > li {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.grid-prod > figure > img {
+    width: 150px;
+    height: 185px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+#pagamento {
+    width: 180px;
+    height: 40px;
+}
+
+#imagememail {
+    width: 40px;
+    
+}
+
+#imagemwhatsapp {
+    width: 40px;
+}
+
+#imagemsac {
+    width: 60px;
+}
+
